@@ -47,3 +47,5 @@ List<List<int>> chars(List<int> nums) {
   }
   return [oddNums, evenNums];
 }
+
+// задание 4
